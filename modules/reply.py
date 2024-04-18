@@ -232,7 +232,7 @@ faq = {
             columns=[
                 CarouselColumn(
                     # 匯率選單一圖片網址
-                    thumbnail_image_url='https://picsum.photos/id/352/900/400',
+                    thumbnail_image_url='https://i.postimg.cc/Rh7m8Dmf/A3.png',
                     title='匯率選單一',
                     text='點選下方按鈕查詢即時匯率',
                     actions=[
@@ -252,7 +252,7 @@ faq = {
                 ),
                 CarouselColumn(
                     # 匯率選單二圖片網址
-                    thumbnail_image_url='https://picsum.photos/id/364/900/400',
+                    thumbnail_image_url='https://i.postimg.cc/yxZxNjHY/A4.png',
                     title='匯率選單二',
                     text='點選下方按鈕查詢即時匯率',
                     actions=[
@@ -272,7 +272,7 @@ faq = {
                 ),
                 CarouselColumn(
                     # 匯率選單三圖片網址
-                    thumbnail_image_url='https://picsum.photos/id/355/900/400',
+                    thumbnail_image_url='https://i.postimg.cc/CLMxZbVN/A5.png',
                     title='匯率選單三',
                     text='點選下方按鈕查詢即時匯率',
                     actions=[
@@ -333,7 +333,7 @@ menu = TemplateSendMessage(
             ),
             CarouselColumn(
                 # 卡片二圖片網址
-                thumbnail_image_url='https://picsum.photos/id/355/900/400',
+                thumbnail_image_url='https://i.postimg.cc/3rgtyTx7/a2.png',
                 title='明牌報價',
                 text='點選下方按鈕開始互動',
                 actions=[
