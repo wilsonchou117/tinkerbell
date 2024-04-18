@@ -313,7 +313,7 @@ menu = TemplateSendMessage(
         columns=[
             CarouselColumn(
                 # 卡片一圖片網址
-                thumbnail_image_url='https://picsum.photos/id/296/900/400',
+                thumbnail_image_url='https://i.postimg.cc/nhNgt1Lh/a1.png',
                 title='報價查詢',
                 text='點選下方按鈕開始互動',
                 actions=[
