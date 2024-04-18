@@ -313,7 +313,7 @@ menu = TemplateSendMessage(
         columns=[
             CarouselColumn(
                 # 卡片一圖片網址
-                thumbnail_image_url='https://i.postimg.cc/nhNgt1Lh/a1.png',
+                thumbnail_image_url='https://i.postimg.cc/3rgtyTx7/a2.png',
                 title='報價查詢',
                 text='點選下方按鈕開始互動',
                 actions=[
@@ -332,8 +332,8 @@ menu = TemplateSendMessage(
                 ]
             ),
             CarouselColumn(
-                # 卡片二圖片網址
-                thumbnail_image_url='https://i.postimg.cc/3rgtyTx7/a2.png',
+                # 卡片二圖片網址https://i.postimg.cc/nhNgt1Lh/a1.png
+                thumbnail_image_url='https://i.postimg.cc/nhNgt1Lh/a1.png',
                 title='明牌報價',
                 text='點選下方按鈕開始互動',
                 actions=[
