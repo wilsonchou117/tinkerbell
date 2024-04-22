@@ -212,7 +212,7 @@ faq = {
         text="亞馬遜 2024/2/29 買點:168，賣點179"
     ),
     'TSMC': TextSendMessage(
-        text="台積電 2024/3/1 買點:667，賣點699"
+        text="台積電 2024/3/1 買點:667，賣點700"
     ),
     'Foxconn': TextSendMessage(
         text="鴻海 2024/3/1 買點:101，賣點103"
